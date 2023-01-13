@@ -1,5 +1,5 @@
 # Free Online Character Count Report Tool
-
+This is built with react
 
 ### `npm start`
 
